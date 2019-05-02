@@ -1,0 +1,8 @@
+﻿ModelName,NCAA,Mixed
+Logistic Regression,0.00469,0.239
+KNN,0.0007,0.119
+SVM,0.005,280
+KernelSVM,0.011,209
+Naïve Bayes,0.0019,0.065
+Random Forest,0.018,3.49
+Decision Trees,0.0021,2.16
